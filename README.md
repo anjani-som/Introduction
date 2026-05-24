@@ -26,6 +26,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45"/>
 </p> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjanisom0213&show_icons=true&locale=en&layout=compact" alt="anjanisom0213"  /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjani-som&show_icons=true&locale=en&layout=compact" alt="anjani-som"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanisom0213&" alt="anjanisom0213" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanisom0213&" alt="anjani-som" /></p>
