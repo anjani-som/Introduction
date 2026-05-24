@@ -39,11 +39,4 @@
 
 ---
 
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-Dashboarding-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Data%20Analytics-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-Business%20Reporting-darkgreen?style=for-the-badge"/>
-</p>
-
 
