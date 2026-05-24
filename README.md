@@ -26,11 +26,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45"/>
 </p> </p>
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjani-som&show_icons=true&theme=tokyonight" />
-</p>
+![Anjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjani-som&show_icons=true&theme=radical)
+
+---
 
 
 
@@ -42,6 +43,6 @@
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjani-som&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjani-som&layout=compact&theme=radical)
 
 ---
