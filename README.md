@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence;Power+BI+Developer;SQL+%7C+Python+%7C+Analytics;Turning+Data+Into+Insights"/>
+</p>
 <h1 align="center">Hi 👋, I'm Anjani Som</h1>
 <h3 align="center">Data Analyst | Associate Project manager</h3>
 
@@ -27,11 +30,6 @@
 </p> </p>
 
 
-## 📊 GitHub Stats
-
-![Anjani's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjani-som&show_icons=true&theme=radical)
-
----
 
 
 
@@ -41,8 +39,4 @@
 
 ---
 
-## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjani-som&layout=compact&theme=radical)
-
----
