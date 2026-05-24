@@ -1,13 +1,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Anjani+Som"/>
 </p>
-<h1 align="center">Hi 👋, I'm Anjani Som</h1>
-<h3 align="center">Data Analyst | Associate Project manager</h3>
+
+<h1 align="center">Data Analyst | Associate Project manager</h1>
 
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanisom0213&label=Profile%20views&color=0e75b6&style=flat" alt="anjanisom0213" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjani-som&label=Profile%20views&color=0e75b6&style=flat" alt="anjani-som" /> </p>
 
 - 🌱 Working with **SQL, Python, Power BI, Excel, Data Analytics, KPI Reporting, and Business Insights**
 
@@ -38,5 +38,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjani-som&theme=tokyonight)
 
 ---
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-Dashboarding-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analytics-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-Business%20Reporting-darkgreen?style=for-the-badge"/>
+</p>
 
 
