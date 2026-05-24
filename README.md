@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/anjanisom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anjanisom/" height="30" width="40" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left"> <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
@@ -26,6 +26,20 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45"/>
 </p> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjani-som&show_icons=true&locale=en&layout=compact" alt="anjani-som"  /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanisom0213&" alt="anjani-som" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjani-som&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjani-som&theme=tokyonight)
+
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjani-som&layout=compact&theme=tokyonight)
+
+---
